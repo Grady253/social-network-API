@@ -21,7 +21,6 @@ const userSchema = new Schema(
       },
       
     ],
-
     friends:[
       {
         type: Schema.Types.ObjectId,
